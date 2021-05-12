@@ -1,0 +1,2 @@
+Prefix plugins/GTF2CSV/example
+Plugin GTF2CSV inputfile Homo_sapiens.GRCh37.75.head1000.gtf.gz outputfile myoutput.csv
